@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1758103132,,"wq"
+|2,0,1758103307,,"wq"
 :w
 |2,0,1758103083,,"w"
 :q
@@ -89,38 +89,52 @@
 |3,0,36,0,1,0,1758100646,"&"
 
 # File marks:
-'0  3  38  ~/fardeath.mkobsfs
-|4,48,3,38,1758103132,"~/fardeath.mkobsfs"
-'1  13  7  ~/fardeath.mkobsfs
-|4,49,13,7,1758103031,"~/fardeath.mkobsfs"
-'2  11  7  ~/fardeath.mkobsfs
-|4,50,11,7,1758103031,"~/fardeath.mkobsfs"
-'3  13  8  ~/fardeath.mkobsfs
-|4,51,13,8,1758102937,"~/fardeath.mkobsfs"
-'4  11  8  ~/fardeath.mkobsfs
-|4,52,11,8,1758102937,"~/fardeath.mkobsfs"
-'5  12  5220  ~/fardeath.mkobsfs
-|4,53,12,5220,1758102860,"~/fardeath.mkobsfs"
-'6  12  5220  ~/fardeath.mkobsfs
-|4,54,12,5220,1758102860,"~/fardeath.mkobsfs"
-'7  12  5220  ~/fardeath.mkobsfs
-|4,55,12,5220,1758102860,"~/fardeath.mkobsfs"
-'8  12  5220  ~/fardeath.mkobsfs
-|4,56,12,5220,1758102860,"~/fardeath.mkobsfs"
-'9  10  5220  ~/fardeath.mkobsfs
-|4,57,10,5220,1758102860,"~/fardeath.mkobsfs"
+'0  13  493  ~/fardeath.mkobsfs
+|4,48,13,493,1758103307,"~/fardeath.mkobsfs"
+'1  15  38  ~/fardeath.mkobsfs
+|4,49,15,38,1758103132,"~/fardeath.mkobsfs"
+'2  3  38  ~/fardeath.mkobsfs
+|4,50,3,38,1758103132,"~/fardeath.mkobsfs"
+'3  25  7  ~/fardeath.mkobsfs
+|4,51,25,7,1758103031,"~/fardeath.mkobsfs"
+'4  23  7  ~/fardeath.mkobsfs
+|4,52,23,7,1758103031,"~/fardeath.mkobsfs"
+'5  13  7  ~/fardeath.mkobsfs
+|4,53,13,7,1758103031,"~/fardeath.mkobsfs"
+'6  11  7  ~/fardeath.mkobsfs
+|4,54,11,7,1758103031,"~/fardeath.mkobsfs"
+'7  25  8  ~/fardeath.mkobsfs
+|4,55,25,8,1758102937,"~/fardeath.mkobsfs"
+'8  23  8  ~/fardeath.mkobsfs
+|4,56,23,8,1758102937,"~/fardeath.mkobsfs"
+'9  13  8  ~/fardeath.mkobsfs
+|4,57,13,8,1758102937,"~/fardeath.mkobsfs"
 
 # Jumplist (newest first):
+-'  13  493  ~/fardeath.mkobsfs
+|4,39,13,493,1758103307,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758103300,"~/fardeath.mkobsfs"
+-'  15  38  ~/fardeath.mkobsfs
+|4,39,15,38,1758103132,"~/fardeath.mkobsfs"
 -'  3  38  ~/fardeath.mkobsfs
 |4,39,3,38,1758103132,"~/fardeath.mkobsfs"
+-'  23  25  ~/fardeath.mkobsfs
+|4,39,23,25,1758103082,"~/fardeath.mkobsfs"
 -'  11  25  ~/fardeath.mkobsfs
 |4,39,11,25,1758103082,"~/fardeath.mkobsfs"
+-'  25  7  ~/fardeath.mkobsfs
+|4,39,25,7,1758103039,"~/fardeath.mkobsfs"
 -'  13  7  ~/fardeath.mkobsfs
 |4,39,13,7,1758103039,"~/fardeath.mkobsfs"
 -'  11  7  ~/fardeath.mkobsfs
 |4,39,11,7,1758103031,"~/fardeath.mkobsfs"
 -'  11  8  ~/fardeath.mkobsfs
 |4,39,11,8,1758102937,"~/fardeath.mkobsfs"
+-'  24  5220  ~/fardeath.mkobsfs
+|4,39,24,5220,1758102869,"~/fardeath.mkobsfs"
+-'  22  5220  ~/fardeath.mkobsfs
+|4,39,22,5220,1758102869,"~/fardeath.mkobsfs"
 -'  12  5220  ~/fardeath.mkobsfs
 |4,39,12,5220,1758102869,"~/fardeath.mkobsfs"
 -'  10  5220  ~/fardeath.mkobsfs
@@ -203,6 +217,70 @@
 |4,39,1,20,1758102367,"~/README.md"
 -'  1  20  ~/README.md
 |4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
 -'  5  15  ~/README.md
 |4,39,5,15,1758102364,"~/README.md"
 -'  5  15  ~/README.md
@@ -233,105 +311,28 @@
 |4,39,5,15,1758102364,"~/README.md"
 -'  5  15  ~/README.md
 |4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102364,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
--'  5  15  ~/README.md
-|4,39,5,15,1758102346,"~/README.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/fardeath.mkobsfs
-	*	1758103131	0
-	"	3	38
-	^	3	39
-	.	3	38
-	+	12	0
-	+	13	9
-	+	13	8
-	+	13	1128
-	+	13	9
-	+	13	1090
-	+	13	9
-	+	14	0
-	+	13	858
-	+	13	92
-	+	12	0
+	*	1758103306	0
+	"	13	493
+	^	13	494
+	.	13	493
+	+	24	0
+	+	25	9
+	+	25	8
+	+	25	1128
+	+	25	9
+	+	25	1090
+	+	25	9
+	+	26	0
+	+	25	858
+	+	25	92
+	+	24	0
 	+	1	19
-	+	3	38
+	+	15	38
+	+	13	493
 
 > ~/README.md
 	*	1758102367	0
