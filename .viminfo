@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1758102367,,"wq"
+|2,0,1758103132,,"wq"
 :w
-|2,0,1758101833,,"w"
+|2,0,1758103083,,"w"
 :q
-|2,0,1758101672,,"q"
+|2,0,1758102577,,"q"
 :W
 |2,0,1758096402,,"W"
 :q!
@@ -60,7 +60,15 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-"1	CHAR	0
+""1	CHAR	0
+	
+	1170
+<adw-gtk-theme-git breeze-plus darkly-bin geteltorito google-breakpad html2markdown html2markdown-debug illogical-impulse-audio illogical-impulse-backlight illogical-impulse-basic illogical-impulse-bibata-modern-classic-bin illogical-impulse-fonts-themes illogical-impulse-hyprland illogical-impulse-kde illogical-impulse-microtex-git illogical-impulse-microtex-git-debug illogical-impulse-portal illogical-impulse-python illogical-impulse-screencapture illogical-impulse-toolkit illogical-impulse-widgets kde-material-you-colors kde-material-you-colors-debug libobsidianos_overlays-git libobsidianos_overlays-git-debug matugen-bin matugen-bin-debug minecraft-launcher minecraft-launcher-debug noto-fonts-ar obsidian-control-git obsidianctl-git obsidianospm-git obsidianospm-git-debug obsidianwall-git otf-space-grotesk packagekit-qt5 playit playit-debug plugind-git plugind-git-debug python-materialyoucolor python-materialyoucolor-debug python-pywal16 qt6-avif-image-plugin quickshell-git ttf-gabarito-git ttf-material-symbols-variable-git ttf-readex-pro ttf-rubik-vf ttf-twemoji whatsapp-linux-desktop-debug whatsie-debug wlogout wlogout-debug yay-bin yay-bin-debug
+|3,1,1,0,2,0,1758103029,"",>1169
+|<"adw-gtk-theme-git breeze-plus darkly-bin geteltorito google-breakpad html2markdown html2markdown-debug illogical-impulse-audio illogical-impulse-backlight illogical-impulse-basic illogical-impulse-bibata-modern-classic-bin illogical-impulse-fonts-themes illogical-impulse-hyprland illogical-impulse-kde illogical-impulse-microtex-git illogical-impulse-microtex-git-debug illogical-impulse-portal illogical-impulse-python illogical-impulse-screencapture illogical-impulse-toolkit illogical-i
+|<mpulse-widgets kde-material-you-colors kde-material-you-colors-debug libobsidianos_overlays-git libobsidianos_overlays-git-debug matugen-bin matugen-bin-debug minecraft-launcher minecraft-launcher-debug noto-fonts-ar obsidian-control-git obsidianctl-git obsidianospm-git obsidianospm-git-debug obsidianwall-git otf-space-grotesk packagekit-qt5 playit playit-debug plugind-git plugind-git-debug python-materialyoucolor python-materialyoucolor-debug python-pywal16 qt6-avif-image-plugin quick
+|<shell-git ttf-gabarito-git ttf-material-symbols-variable-git ttf-readex-pro ttf-rubik-vf ttf-twemoji whatsapp-linux-desktop-debug whatsie-debug wlogout wlogout-debug yay-bin yay-bin-debug"
+"2	CHAR	0
 	
 	        "logo": {
 	                "source": "~/.config/fastfetch/isles.png",
@@ -69,242 +77,261 @@
 	                        "left": 1
 	                }
 	        }
-|3,0,1,0,8,0,1758098850,"","        \"logo\": {","                \"source\": \"~/.config/fastfetch/isles.png\",","                \"padding\": {","                        \"top\": 1,","                        \"left\": 1","                }","        }"
-"2	CHAR	0
+|3,0,2,0,8,0,1758098850,"","        \"logo\": {","                \"source\": \"~/.config/fastfetch/isles.png\",","                \"padding\": {","                        \"top\": 1,","                        \"left\": 1","                }","        }"
+"3	CHAR	0
 		if test -f ~/.local/state/quickshell/user/generated/terminal/sequences.txt
 	    		cat ~/.local/state/quickshell/user/generated/terminal/sequences.txt
 		end
 	
-|3,0,2,0,4,0,1758097690,"	if test -f ~/.local/state/quickshell/user/generated/terminal/sequences.txt","    		cat ~/.local/state/quickshell/user/generated/terminal/sequences.txt","	end",""
-""-	CHAR	0
+|3,0,3,0,4,0,1758097690,"	if test -f ~/.local/state/quickshell/user/generated/terminal/sequences.txt","    		cat ~/.local/state/quickshell/user/generated/terminal/sequences.txt","	end",""
+"-	CHAR	0
 	&
-|3,1,36,0,1,0,1758100646,"&"
+|3,0,36,0,1,0,1758100646,"&"
 
 # File marks:
-'0  1  20  ~/README.md
-|4,48,1,20,1758102367,"~/README.md"
-'1  5  15  ~/README.md
-|4,49,5,15,1758102346,"~/README.md"
-'2  5  15  ~/README.md
-|4,50,5,15,1758102346,"~/README.md"
-'3  2  84  ~/README.md
-|4,51,2,84,1758102324,"~/README.md"
-'4  2  84  ~/README.md
-|4,52,2,84,1758102324,"~/README.md"
-'5  2  84  ~/README.md
-|4,53,2,84,1758102324,"~/README.md"
-'6  2  84  ~/README.md
-|4,54,2,84,1758102324,"~/README.md"
-'7  38  4  ~/.gitignore
-|4,55,38,4,1758101874,"~/.gitignore"
-'8  37  3  ~/.gitignore
-|4,56,37,3,1758101860,"~/.gitignore"
-'9  37  3  ~/.gitignore
-|4,57,37,3,1758101860,"~/.gitignore"
+'0  3  38  ~/fardeath.mkobsfs
+|4,48,3,38,1758103132,"~/fardeath.mkobsfs"
+'1  13  7  ~/fardeath.mkobsfs
+|4,49,13,7,1758103031,"~/fardeath.mkobsfs"
+'2  11  7  ~/fardeath.mkobsfs
+|4,50,11,7,1758103031,"~/fardeath.mkobsfs"
+'3  13  8  ~/fardeath.mkobsfs
+|4,51,13,8,1758102937,"~/fardeath.mkobsfs"
+'4  11  8  ~/fardeath.mkobsfs
+|4,52,11,8,1758102937,"~/fardeath.mkobsfs"
+'5  12  5220  ~/fardeath.mkobsfs
+|4,53,12,5220,1758102860,"~/fardeath.mkobsfs"
+'6  12  5220  ~/fardeath.mkobsfs
+|4,54,12,5220,1758102860,"~/fardeath.mkobsfs"
+'7  12  5220  ~/fardeath.mkobsfs
+|4,55,12,5220,1758102860,"~/fardeath.mkobsfs"
+'8  12  5220  ~/fardeath.mkobsfs
+|4,56,12,5220,1758102860,"~/fardeath.mkobsfs"
+'9  10  5220  ~/fardeath.mkobsfs
+|4,57,10,5220,1758102860,"~/fardeath.mkobsfs"
 
 # Jumplist (newest first):
+-'  3  38  ~/fardeath.mkobsfs
+|4,39,3,38,1758103132,"~/fardeath.mkobsfs"
+-'  11  25  ~/fardeath.mkobsfs
+|4,39,11,25,1758103082,"~/fardeath.mkobsfs"
+-'  13  7  ~/fardeath.mkobsfs
+|4,39,13,7,1758103039,"~/fardeath.mkobsfs"
+-'  11  7  ~/fardeath.mkobsfs
+|4,39,11,7,1758103031,"~/fardeath.mkobsfs"
+-'  11  8  ~/fardeath.mkobsfs
+|4,39,11,8,1758102937,"~/fardeath.mkobsfs"
+-'  12  5220  ~/fardeath.mkobsfs
+|4,39,12,5220,1758102869,"~/fardeath.mkobsfs"
+-'  10  5220  ~/fardeath.mkobsfs
+|4,39,10,5220,1758102869,"~/fardeath.mkobsfs"
+-'  10  5220  ~/fardeath.mkobsfs
+|4,39,10,5220,1758102869,"~/fardeath.mkobsfs"
+-'  10  5220  ~/fardeath.mkobsfs
+|4,39,10,5220,1758102860,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758102796,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758102796,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758102796,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758102796,"~/fardeath.mkobsfs"
+-'  1  0  ~/fardeath.mkobsfs
+|4,39,1,0,1758102577,"~/fardeath.mkobsfs"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
+-'  1  20  ~/README.md
+|4,39,1,20,1758102367,"~/README.md"
 -'  1  20  ~/README.md
 |4,39,1,20,1758102367,"~/README.md"
 -'  5  15  ~/README.md
 |4,39,5,15,1758102364,"~/README.md"
 -'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102364,"~/README.md"
+-'  5  15  ~/README.md
 |4,39,5,15,1758102346,"~/README.md"
--'  2  84  ~/README.md
-|4,39,2,84,1758102332,"~/README.md"
--'  2  84  ~/README.md
-|4,39,2,84,1758102332,"~/README.md"
--'  2  84  ~/README.md
-|4,39,2,84,1758102324,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1758102282,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1758102282,"~/README.md"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  38  4  ~/.gitignore
-|4,39,38,4,1758101874,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101867,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  37  3  ~/.gitignore
-|4,39,37,3,1758101860,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101856,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  36  7  ~/.gitignore
-|4,39,36,7,1758101837,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101827,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  35  4  ~/.gitignore
-|4,39,35,4,1758101793,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
--'  34  5  ~/.gitignore
-|4,39,34,5,1758101770,"~/.gitignore"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
+-'  5  15  ~/README.md
+|4,39,5,15,1758102346,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/fardeath.mkobsfs
+	*	1758103131	0
+	"	3	38
+	^	3	39
+	.	3	38
+	+	12	0
+	+	13	9
+	+	13	8
+	+	13	1128
+	+	13	9
+	+	13	1090
+	+	13	9
+	+	14	0
+	+	13	858
+	+	13	92
+	+	12	0
+	+	1	19
+	+	3	38
 
 > ~/README.md
 	*	1758102367	0
