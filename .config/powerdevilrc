@@ -1,0 +1,13 @@
+[AC][Display]
+DimDisplayIdleTimeoutSec=-1
+DimDisplayWhenIdle=false
+UseProfileSpecificDisplayBrightness=true
+
+[Battery][Display]
+DimDisplayIdleTimeoutSec=-1
+DimDisplayWhenIdle=false
+DisplayBrightness=100
+UseProfileSpecificDisplayBrightness=true
+
+[LowBattery][Display]
+DisplayBrightness=44

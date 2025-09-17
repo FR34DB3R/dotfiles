@@ -1,0 +1,8 @@
+[Adapters]
+9C:FC:E8:4F:1E:50_powered=true
+
+[Devices]
+connectedDevices=
+
+[General]
+launchState=enable

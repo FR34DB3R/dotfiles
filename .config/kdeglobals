@@ -1,0 +1,190 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=#1d2026
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=
+IntensityAmount=0
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=#080b12
+ColorAmount=0.025
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=#424753
+BackgroundNormal=#272a31
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#e1e2eb
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Complementary]
+BackgroundAlternate=#0f1118
+BackgroundNormal=#1d2026
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#c2c6d5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Header]
+BackgroundAlternate=#1d2026
+BackgroundNormal=#1d2026
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#c2c6d5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Header][Inactive]
+BackgroundAlternate=#1d2026
+BackgroundNormal=#1d2026
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#c2c6d5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Selection]
+BackgroundAlternate=#abc4fc
+BackgroundNormal=#abc4fc
+DecorationFocus=#abc4fc
+DecorationHover=#afc4f4
+ForegroundActive=#002e69
+ForegroundInactive=#002e69
+ForegroundLink=#004b73
+ForegroundNegative=#920023
+ForegroundNeutral=#753400
+ForegroundNormal=#002e69
+ForegroundPositive=#005228
+ForegroundVisited=#74009f
+
+[Colors:Tooltip]
+BackgroundAlternate=#424753
+BackgroundNormal=#1d2026
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#e1e2eb
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:View]
+BackgroundAlternate=#1d2026
+BackgroundNormal=#0f1118
+DecorationFocus=#abc4fc
+DecorationHover=#005ac1
+ForegroundActive=#e1e2eb
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#e1e2eb
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Window]
+BackgroundAlternate=#424753
+BackgroundNormal=#1d2026
+DecorationFocus=#abc4fc
+DecorationHover=#abc4fc
+ForegroundActive=#8fc9fc
+ForegroundInactive=#8c909f
+ForegroundLink=#8fc9fc
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#fcb38a
+ForegroundNormal=#c2c6d5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[DirSelect Dialog]
+DirSelectDialog Size=838,593
+History Items[$e]=file:$HOME/Desktop/PsychEngine/mods,file:$HOME/Downloads/.minecraft/versions/,file:$HOME/Downloads/.minecraft/,file:$HOME/backup
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x9e\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+ColorScheme=MaterialYouDark
+ColorSchemeHash=41e7b7dc791351eabf3b1013f0ff04ce594d600b
+LastUsedCustomAccentColor=184,117,220
+TerminalApplication=kitty -1
+XftHintStyle=hintslight
+XftSubPixel=none
+fixed=JetBrainsMono Nerd Font,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=Rubik,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Rubik,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Rubik,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Rubik,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=breeze-plus-dark
+
+[KDE]
+AnimationDurationFactor=2.82842712474619
+widgetStyle=Darkly
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=168
+View Style=Simple
+
+[Sounds]
+Theme=freedesktop
+
+[WM]
+activeBackground=50,53,60
+activeBlend=252,252,252
+activeFont=Rubik,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=225,226,235
+inactiveBackground=47,68,109
+inactiveBlend=161,169,177
+inactiveForeground=160,181,229

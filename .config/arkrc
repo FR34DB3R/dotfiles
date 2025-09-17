@@ -1,0 +1,10 @@
+[ExtractDialog]
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/.minecraft/,$HOME/Desktop/,$HOME/Desktop/PsychEngine/mods/,$HOME/Desktop/fnf/funkin-windows-64bit/mods/,$HOME/Desktop/fnf/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

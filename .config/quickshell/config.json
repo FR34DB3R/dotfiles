@@ -1,0 +1,21 @@
+{
+        "videos": {
+                "wallpaper": {
+                        "sources": [
+                                "wooden_linux.jpg",
+                                "redstone.png"
+                        ],
+                        "index": 0
+                }
+        },
+        "battery": {
+                "lowNotify": true,
+                "low": 5
+        },
+        "systemTray": {
+                "visible": true
+        },
+        "bar": {
+                "aboveWindows": false
+        }
+}

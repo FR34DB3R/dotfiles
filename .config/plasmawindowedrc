@@ -1,0 +1,7 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma.networkmanagement
+
+[Applets][3][Configuration]
+PreloadWeight=2
+geometry=0,0,500,500
